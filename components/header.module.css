@@ -1,0 +1,16 @@
+.header {
+  background-color: darkgray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  margin-bottom: 20px;
+}
+
+.link {
+  margin-right: 20px;
+}
+
+.link:hover {
+  color: antiquewhite;
+}
