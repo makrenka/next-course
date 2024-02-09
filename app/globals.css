@@ -97,5 +97,6 @@ a {
 }
 
 .container {
-  text-align: center;
+  width: 1220px;
+  margin: auto;
 }
