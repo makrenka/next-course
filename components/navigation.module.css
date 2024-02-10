@@ -1,0 +1,11 @@
+.active {
+  color: azure;
+}
+
+.link {
+  margin-right: 20px;
+}
+
+.link:hover {
+  color: antiquewhite;
+}
